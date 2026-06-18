@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-workshop/workshop2026-lesson-nanoaod2csv.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fnanoaod2csv.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cms-opendata-workshop/workshop2026-lesson-nanoaod2csv/blob/main/nanoaod2csv.ipynb)
 
 # Convert NANOAOD to CSV
